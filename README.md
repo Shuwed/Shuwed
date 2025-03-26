@@ -1,3 +1,5 @@
+<!-- P.S. Deepseek rescued me from Google Translate -->
+
 # 😘 Hi there! I'm Shuwed 🦦
 
 **Elliot Alderson by day, Mr. Robot by night.**  
