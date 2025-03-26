@@ -7,7 +7,7 @@
 (Just kidding - I only hack my own servers... probably).
 
 ### 🖥️ My System Specs:
-- **OS:** Human.exe (mostly stable)
+- **OS:** Otter.exe (mostly stable)
 - **Shell:** Bash with delusions of grandeur
 - **CPU:** 1 brain @ 3.6GHz (overclocked with 🍺 beer)
 - **RAM:** 16GB (8GB dedicated to remembering VIM commands)
