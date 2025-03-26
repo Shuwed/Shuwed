@@ -19,7 +19,7 @@
 3. Accidentally create Skynet while "just testing something"
 4. Take over the world (optional stretch goal)
 
-⚠️ Warning: My code may contain:
+## ⚠️ Warning: My code may contain:
 - Sarcastic comments
 - Questionable life choices
 
